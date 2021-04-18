@@ -2,7 +2,7 @@ Arma3Map.Maps.chernarusredux = {
   CRS: MGRS_CRS(0.021, 0.021, 345),
   "worldName": "chernarusredux",
   "tilePattern": "/maps/chernarusredux/{z}/{x}/{y}.png",
-  "maxZoom": 5,
+  "maxZoom": 6,
   "minZoom": 0,
   "defaultZoom": 3,
   "attribution": "&copy; Bohemia Interactive",
