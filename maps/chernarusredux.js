@@ -4,7 +4,7 @@ Arma3Map.Maps.chernarusredux = {
   "tilePattern": "/maps/chernarusredux/{z}/{x}/{y}.png",
   "maxZoom": 5,
   "minZoom": 0,
-  "defaultZoom": 2,
+  "defaultZoom": 3,
   "attribution": "&copy; Bohemia Interactive",
   "tileSize": 345,
   "center": [
